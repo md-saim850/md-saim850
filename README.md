@@ -1,7 +1,7 @@
 <div align="center">
   
 <p align="center">
-  <img src="assets/Modern Developer Portfolio Banner.png" width="100%" alt="GitHub Banner" />
+  <img src="assets/git-hub-banner.jpeg" width="100%" alt="GitHub Banner" />
 </p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Sans&weight=600&size=25&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;React+%7C+Next.js+Developer;Node.js+%7C+Express.js+Developer;Django+%7C+DRF+Developer;C%2B%2B+%7C+DSA+Problem+Solver;Always+Learning+New+Technologies" alt="Typing SVG" />
