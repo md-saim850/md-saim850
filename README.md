@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-I’m a **Full-Stack Developer** passionate about building modern, scalable web applications and well-structured REST APIs. I enjoy turning ideas into practical, user-friendly applications while continuously improving my backend engineering and problem-solving skills.
+I’m a **Full-Stack Web Developer** passionate about building modern, scalable web applications and well-structured REST APIs. I enjoy turning ideas into practical, user-friendly applications while continuously improving my backend engineering and problem-solving skills.
 
 * 💻 **Full-Stack Web Developer** focused on modern web technologies
 * ⚙️ Currently focusing on **Node.js & Express.js** for backend development
