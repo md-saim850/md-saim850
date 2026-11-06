@@ -1,6 +1,8 @@
 <div align="center">
   
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Hi%20👋,%20I'm%20MD.%20Saim&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%" />
+<p align="center">
+  <img src="assets/Modern Developer Portfolio Banner.png" width="100%" alt="GitHub Banner" />
+</p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Sans&weight=600&size=25&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;React+%7C+Next.js+Developer;Node.js+%7C+Express.js+Developer;Django+%7C+DRF+Developer;C%2B%2B+%7C+DSA+Problem+Solver;Always+Learning+New+Technologies" alt="Typing SVG" />
 
