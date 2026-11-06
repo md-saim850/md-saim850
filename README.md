@@ -88,7 +88,7 @@ Problem Solving █████████████░░░░░░░   D
 ## 🎯 Development Goals
 
 ```javascript
-const sayeem = {
+const mdSaim = {
     role: "Full-Stack Web Developer",
 
     frontend: [
